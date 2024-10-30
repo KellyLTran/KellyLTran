@@ -27,8 +27,3 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kellyltran&" alt="kellyltran" />
 </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kellyltran&show_icons=true&locale=en" alt="kellyltran" /></p>
-
-
