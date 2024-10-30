@@ -9,7 +9,3 @@
 💻 **Languages**: Python, C++, Java, JavaScript, TypeScript, HTML/CSS, GDScript 
 
 🌐 **Frameworks**: Django, Godot, PyTorch, TensorFlow, scikit-learn, React, Node.js, Expo
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kellyltran&" alt="kellyltran" />
-</p>
