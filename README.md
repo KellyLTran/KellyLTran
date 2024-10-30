@@ -16,5 +16,3 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kellyltran&" alt="kellyltran" />
 </p>
-
-[My github stats](https://github-readme-stats.vercel.app/apiusername=KellyLTran&show_icons=true&theme=radical) 
