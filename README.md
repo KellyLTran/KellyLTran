@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kelly
 
-## 🏫 I'm a third-year student pursuing Computer Science at the University of Florida with a passion for software engineering, web development, AI/ML, and data analysis.
+### 🏫 I'm a third-year student pursuing Computer Science at the University of Florida with a passion for software engineering, web development, AI/ML, and data analysis.
 
 🎉 **Welcome to my GitHub!** Here you’ll find a range of programming projects, technical workshops, open-source contributions, and hands-on assignments.
 
