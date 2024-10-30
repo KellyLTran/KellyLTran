@@ -11,9 +11,5 @@
 🌐 **Frameworks**: Django, Godot, PyTorch, TensorFlow, scikit-learn, React, Node.js, Expo
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kellyltran&show_icons=true&locale=en&layout=compact" alt="kellyltran" />
-</p>
-
-<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kellyltran&" alt="kellyltran" />
 </p>
