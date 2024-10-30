@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Kelly</h1>
 
-🏫 I'm a third-year student pursuing Computer Science at the University of Florida with a passion for software engineering, web development, AI/ML, and data analysis.
+🏫 I'm a junior Computer Science student at the University of Florida with a passion for software engineering, web development, AI/ML, and data analysis.
 
-🎉 **Welcome to my GitHub!** Here you’ll find all my programming projects, technical workshops, open-source contributions, and hands-on assignments.
+🎉 **Welcome to my GitHub!** Here you’ll find all my programming projects, technical workshops, and open-source contributions.
 
 📬 **How to reach me:** [LinkedIn](https://linkedin.com/in/kellyltran), [Email](mailto:kellyltran04@gmail.com)
 
