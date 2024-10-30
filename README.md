@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Kelly
 
-### 🏫 I'm a third-year student pursuing Computer Science at the University of Florida with a passion for software engineering, web development, AI/ML, and data analysis.
+🏫 I'm a third-year student pursuing Computer Science at the University of Florida with a passion for software engineering, web development, AI/ML, and data analysis.
 
-🎉 **Welcome to my GitHub!** Here you’ll find a range of programming projects, technical workshops, open-source contributions, and hands-on assignments.
+🎉 **Welcome to my GitHub!** Here you’ll find all my programming projects, technical workshops, open-source contributions, and hands-on assignments.
 
-💻 **Languages**: Python, C++, Java, JavaScript, TypeScript, HTML/CSS, GDScript  
+💻 **Languages**: Python, C++, Java, JavaScript, TypeScript, HTML/CSS, GDScript 
+
 🌐 **Frameworks**: Django, Godot, PyTorch, TensorFlow, scikit-learn, React, Node.js, Expo
 
 📬 **How to reach me:** [LinkedIn](https://linkedin.com/in/kellyltran), [Email](mailto:kellyltran04@gmail.com)
