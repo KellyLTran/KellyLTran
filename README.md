@@ -8,10 +8,7 @@
 <p align="left">💻 <strong>Languages</strong>: Python, C++, Java, JavaScript, TypeScript, HTML/CSS, GDScript</p>
 <p align="left">🌐 <strong>Frameworks</strong>: Django, Godot, PyTorch, TensorFlow, scikit-learn, React, Node.js, Expo</p>
 
-<p align="left">🌐 Connect with me: 
-    <a href="https://www.linkedin.com/in/kellyltran/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" />
-    </a>
+<p align="left"> 📬 How to reach me: [LinkedIn](https://linkedin.com/in/kellyltran), [Email](mailto:kellyltran04@gmail.com)
 </p>
 
 <p align="center">
