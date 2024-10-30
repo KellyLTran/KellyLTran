@@ -17,4 +17,4 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kellyltran&" alt="kellyltran" />
 </p>
 
-![NAME github stats](https://github-readme-stats.vercel.app/apiusername=KellyLTran&show_icons=true&theme=radical) 
+[My github stats](https://github-readme-stats.vercel.app/apiusername=KellyLTran&show_icons=true&theme=radical) 
