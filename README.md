@@ -8,4 +8,4 @@
 
 💻 **Languages**: Python, C++, Java, JavaScript, TypeScript, HTML/CSS, GDScript 
 
-🌐 **Frameworks**: Django, Godot, PyTorch, TensorFlow, scikit-learn, React, Node.js, Expo
+🌐 **Frameworks**: Django, Godot, React, Node.js, Expo
