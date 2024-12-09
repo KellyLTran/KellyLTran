@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Kelly</h1>
 
-🏫 I'm a junior Computer Science student at the University of Florida with a passion for software engineering, web development, AI/ML, and data analysis.
+🏫 I'm a junior Computer Science student at the University of Florida with a passion for software engineering, web development, and AI/ML data analysis.
 
 🎉 **Welcome to my GitHub!** Here you’ll find all my programming projects, technical workshops, and open-source contributions.
 
