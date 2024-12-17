@@ -6,6 +6,6 @@
 
 📬 **How to reach me:** [LinkedIn](https://linkedin.com/in/kellyltran), [Email](mailto:kellyltran04@gmail.com)
 
-💻 **Languages**: Python, C++, HTML, CSS, JavaScript, GDScript, TypeScript
+💻 **Languages**: Python, C++, HTML, CSS, JavaScript, GDScript, TypeScript, R, SQL, MATLAB
 
-🌐 **Frameworks**: Django, Godot, SQLite, React.js, Node.js, SFML, pygame
+🌐 **Libraries and Frameworks**: Django, Godot, SQLite, React.js, Node.js, SFML, NumPy, pygame, pandas, tidycensus
