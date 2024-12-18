@@ -4,7 +4,7 @@
 
 🎉 **Welcome to my GitHub!** Here you’ll find all my programming projects, technical workshops, and open-source contributions.
 
-📬 **How to reach me:** [LinkedIn](https://linkedin.com/in/kellyltran), [Email](mailto:kellyltran04@gmail.com)
+📬 **How to reach me:** [LinkedIn](https://linkedin.com/in/kellyltran), [Email](mailto:kellytran.inbox@gmail.com)
 
 💻 **Languages**: Python, C++, HTML, CSS, JavaScript, GDScript, TypeScript, R, SQL, MATLAB
 
