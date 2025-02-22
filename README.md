@@ -2,7 +2,7 @@
 
 🏫 I'm a junior Computer Science student at the University of Florida with a passion for software engineering involving full-stack web development and data analysis.
 
-🎉 **Welcome to my GitHub!** Here you’ll find all my programming projects, technical workshops, and open-source contributions.
+🎉 **Welcome to my GitHub!** Here you’ll find all my programming projects and open-source contributions.
 
 📬 **How to reach me:** [LinkedIn](https://linkedin.com/in/kellyltran), [Email](mailto:kellytran.inbox@gmail.com)
 
