@@ -8,4 +8,4 @@
 
 💻 **Languages**: Python, C++, HTML, CSS, JavaScript, Java, R, SQL, Kotlin, GDScript
 
-🌐 **Libraries and Frameworks**: Django, React, Express, Node.js, Mongoose
+🌐 **Libraries and Frameworks**: Django, React, Express, Node.js, Mongoose, Tailwind CSS, Bootstrap
