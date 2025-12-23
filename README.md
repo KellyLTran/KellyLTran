@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Kelly</h1>
 
-🏫 I'm a junior Computer Science student at the University of Florida with a passion for data modeling and visualization along with full-stack application development. 
+🏫 I'm a Computer Science student at the University of Florida with a passion for data modeling and visualization along with full-stack application development. 
 
 🎉 **Welcome to my GitHub!** Here you’ll find all my programming projects and open-source contributions.
 
